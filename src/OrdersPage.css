@@ -1,0 +1,17 @@
+.orders-page {
+  margin: 20px;
+}
+
+.input {
+  width: 300px;
+  margin-bottom: 10px;
+}
+
+.ant-table-wrapper {
+  margin-top: 20px;
+}
+
+.ant-table td {
+  padding: 8px;
+}
+
